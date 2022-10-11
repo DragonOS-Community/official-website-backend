@@ -55,5 +55,5 @@ build/
 .vscode/
 
 ## db information ##
-application-db.properties
 /src/main/java/com/dragonos/website/dao/CodeGenerator.java
+/src/main/resources/application-db.properties
