@@ -1,8 +1,5 @@
 # Compiled class file
 *.class
-
-
-application-db.properties
 # Log file
 *.log
 
@@ -56,3 +53,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+## db information ##
+application-db.properties
