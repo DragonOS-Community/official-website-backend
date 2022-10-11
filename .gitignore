@@ -56,3 +56,4 @@ build/
 
 ## db information ##
 application-db.properties
+/src/main/java/com/dragonos/website/dao/CodeGenerator.java
