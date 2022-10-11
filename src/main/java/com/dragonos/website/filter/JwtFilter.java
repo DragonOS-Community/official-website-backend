@@ -19,7 +19,7 @@ public class JwtFilter extends HandlerInterceptorAdapter {
 
     public static final String LOGIN_URL = "/login";
 
-    public static final String LANKA_URL = "/lanka";
+    public static final String LANKA_URL = "/abc";
 
     @Resource
     private JwtTokenUtil jwtTokenUtil;
